@@ -1,3 +1,5 @@
+This is the basic tutorial to build a tic tac toe game on the react homepage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
